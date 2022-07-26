@@ -2,15 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/26134506/180869852-41d0a428-e301-4dc7-85c0-126eb42beba4.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/26134506/181023316-6742aaca-c090-415d-8e57-03bfc6865b1d.png)
+
+
 # WHAT IS RABBITMQ?
 ---------------------------------------------------------------------------
 RabbitMQ is an open source message broker written in Java. It's fully compliant with JMS 1.1 standards. It is developed and maintained by Apache Software Foundation and is licensed under Apache license. It provides high availability, scalability, reliability, performance and security for enterprise level messaging applications.
 
 JMS is a specification that allows development of message based system. RabbitMQ acts as a broker of messages which sits in between applications and allows them to communicate in asynchronous and reliable way.
 
-# Installation of RabbiMQ  
-    https://www.youtube.com/watch?v=V9DWKbalbWQ
-  ---------------------------------------------------------------------------------------------------
+
   Step1 : https://www.rabbitmq.com/download.html
   
   Step2 : https://www.erlang.org/downloads
